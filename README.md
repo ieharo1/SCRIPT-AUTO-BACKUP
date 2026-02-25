@@ -29,3 +29,4 @@ Script de automatización para realizar backups de archivos a dispositivos NAS.
 ---
 
 © 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
